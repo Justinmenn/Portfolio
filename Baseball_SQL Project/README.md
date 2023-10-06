@@ -1,7 +1,7 @@
 # MLB Baseball SQL Project
 
 ## Description
-Baseball has always been one of my passions. I grew up playing and watching the sport, and I have attended countless MLB games in my life. Baseball is a statistics-driven sports, and that aspect of it has always fascinated me. For this project I have taken it upon myself to answer 12 questions that I have proposed to myself. All questions were answered by using six data tables that contain MLB data. The project contains three SQL file scripts that I wrote. PgAdmin4 software and postgreSQL DBMS were used for querying. Finally, the Query Results folder contains the csv files of the results from each of the queries. Their labeling is matched within the comments of the queryin SQL file.
+Baseball has always been one of my passions. I grew up playing and watching the sport, and I have attended countless MLB games in my life. Baseball is a statistics-driven sports, and that aspect of it has always fascinated me. For this project I have taken it upon myself to answer 12 questions that I have proposed to myself. All questions were answered by using six data tables that contain MLB data. The project contains three SQL file scripts that I wrote. PgAdmin4 software and postgreSQL DBMS were used for querying. Finally, the Query Results folder contains the csv files of the results from each of the queries. Their labeling is matched within the comments of the querying SQL file.
 
 ### Data Tables 
 **This project uses six tables in the form of Excel files:**
