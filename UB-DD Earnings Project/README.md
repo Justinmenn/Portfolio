@@ -1,6 +1,6 @@
-## DD_UE Earnings Excel Project
+## DD_UE Earnings Excel Project 💰💰💰
 
-### Description 
+### Description ✍️
 
 In this project I utilized some of my personal earnings information from my time working part-time with both DoorDash and UberEats food delivery services. In the Excel file there are nine total sheets. 
 - The first sheet labeled "Dashboard" is the final interactive and dynamic dashboard that features various charts and graphs, as well as timelines and slicers to filter data to the user's liking.
