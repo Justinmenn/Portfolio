@@ -1,9 +1,9 @@
-# MLB Baseball SQL Project
+# MLB Baseball SQL Project ⚾⚾⚾
 
-## Description
+## Description ✍️
 Baseball has always been one of my passions. I grew up playing and watching the sport, and I have attended countless MLB games in my life. Baseball is a statistics-driven sports, and that aspect of it has always fascinated me. For this project I have taken it upon myself to answer 12 questions that I have proposed to myself. All questions were answered by using six data tables that contain MLB data. The project contains three SQL file scripts that I wrote. PgAdmin4 software and postgreSQL DBMS were used for querying. Finally, the Query Results folder contains the csv files of the results from each of the queries. Their labeling is matched within the comments of the querying SQL file.
 
-### Data Tables 
+### Data Tables 📊
 **This project uses six tables in the form of Excel files:**
 - The "Batting" data table contains hitting statistics on every person to ever play in the MLB (1871-2022). There is a data entry for each player and each season in which they played. So if a player played in the league for 10 years, there will be 10 separate entries for that player. Each player is uniquely identifiable by their "playerID", the first column in the table.
 - The "Fielding" data table is exactly the same as the "Batting" table expect is has fielding statistics for all players.
@@ -15,7 +15,7 @@ Baseball has always been one of my passions. I grew up playing and watching the 
 The "Batting", "Fielding", "Pitching", "People", and "CollegePlaying" data sets can all be linked using the "playerID" column.
 The "Schools" and "CollegePlaying" data sets can be linked using the "schoolD" column.
 
-### SQL Files
+### SQL Files 📁
 **This Project uses three SQL scripts to preform all necessary tasks:**
 - The "SQL Baseball Project Table Creation" SQL file contains the skeleton for creating each of the six tables.
 - Once the data is imported into these tables, the "Baseball Project Cleaning Data" SQL file wrangles and cleans the data.
