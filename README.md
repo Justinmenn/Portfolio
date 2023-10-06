@@ -8,5 +8,5 @@ Hello! I am a recent graduate from the University of Alabama with a B.S in Compu
 ## Contact Me 📧
 Please feel free to contact me via one of the methods below:
 
-- **LinkedIn:** [@justin-menninger](linkedin.com/in/justin-menninger)  
+- **LinkedIn:** [@justin-menninger](https://www.linkedin.com/in/justin-menninger/)
 - **Email:**    justinmenn@gmail.com
