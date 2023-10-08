@@ -6,9 +6,9 @@ This is my personal portfolio that showcases my skills in data analysis through 
 Hello! I am a recent graduate from the University of Alabama with a B.S in Computer Engineering (May 2023). I have a passion for statistics and numerical analysis, and am extremely intrested in working in the data analytical world. I am currently looking for an on-site, hybrid, or remote full-time job in the Atlanta area!
 
 ## Certifications 📜
-### Full-length course certificate
+### Full-length Course Certificate
 - [IBM Data Analyst 9-part Online Course](https://coursera.org/share/0697a792cd20989e5e170da3b5a4ef89)
-### Each individual course certificate
+### Each individual Course Certificate
 - [Data Analysis with Python](https://coursera.org/share/0285afd75d05ab6da487b23fdb7b2dbf)
 - [IBM Data Analyst Capstone Project](https://coursera.org/share/b251ddf493598cad4e413952d7347a22)
 - [Data Visualization with Python](https://coursera.org/share/2683cf20146b4d09a98e117f0fc27497)
