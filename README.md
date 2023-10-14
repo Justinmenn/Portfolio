@@ -18,6 +18,8 @@ Hello! I am a recent graduate from the University of Alabama with a B.S in Compu
 - [Introduction to Data Analytics](https://coursera.org/share/8a60447e18da2666309dada8fb831830)
 - [Data Visualization and Dashboards with Excel and Cognos](https://coursera.org/share/c821fb838a7775dee5f31f59745a5450)
 - [Python for Data Science, AI & Development](https://coursera.org/share/63346e9570e5aba6fed495e5dcd6bd0d)
+### Tableau Certificate
+- [Introduction to Tableau](https://coursera.org/share/618c77211ae559f034bc0db7887d8a2f)
 ## Contact Me 📧
 Please feel free to contact me via one of the methods below:
 
