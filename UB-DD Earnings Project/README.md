@@ -8,3 +8,5 @@ In this project I utilized some of my personal earnings information from my time
 - The other seven sheets are the pivot tables that were used to make the dashboard, and are labeled to match their appearance on the dashboard.
 
 The dataset, and therefore the dashboard, is updated weekly and populated with new rows to reflect my weekly statistics.
+
+** Please note that the dashboard MAY have some missing data when first opening the file. To fix this, press "Enable Editing" and everything should display correctly **
