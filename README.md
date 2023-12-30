@@ -1,5 +1,5 @@
 # Portfolio 📄
-This is my personal portfolio that showcases my skills in data analysis through various projects. This portfolio is ongoing and I am currently working on other projects that will be added here when completed. Projects displayed here are also being constantly updated and improved as I learn and implement new skills. Some current skills that are showcased are Excel, pivot tables, data visualization, SQL, pgAdmin4, postgreSQL, data cleaning, data wrangling, and more!
+This is my personal portfolio that showcases my skills in data analysis through various projects. This portfolio is ongoing and I am currently working on other projects that will be added here when completed. Projects displayed here are also being constantly updated and improved as I learn and implement new skills. Some current skills that are showcased are Excel, pivot tables, Tableau, Power BI, SQL, pgAdmin4, postgreSQL, data cleaning, data wrangling, and more!
 
 ## About Me 👨
 
