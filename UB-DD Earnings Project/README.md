@@ -30,3 +30,11 @@ I also created an interactive dashboard in Tableau to mimic that of the Excel da
 A preview of the Tableau dashboard can be seen in the image below:
 
 ![Tableau Earnings Dashboard SC](https://github.com/Justinmenn/Portfolio/assets/144073281/35d0b953-51d2-4c1f-ab5e-f092a56092e5)
+
+### Power BI
+
+I also created an interactive dashboard in Power BI to mimic that of the Excel and Tableau dashboards. A preview of the dashboard can be seen in the image below. Please note that the Power BI and Excel dashboards's data MAY differ since I update them with different frequencies. 
+
+The .pbix file for the project is attached above if you would like to explore it in more detail!
+
+![image](https://github.com/Justinmenn/Portfolio/assets/144073281/e057693d-999d-4b35-b8d4-6cada0a663ed)
